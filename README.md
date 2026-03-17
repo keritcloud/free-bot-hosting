@@ -1,9 +1,19 @@
 # Free Bot Hosting on Kerit Cloud — Full Guide - truly free forever
 
+
 Welcome to **Kerit Cloud Free Tier**! This guide walks you through claiming, managing, and renewing your free server for testing small bots and scripts.  
 Kerit Cloud offers the best free Discord bot hosting, providing instant setup, daily renewal, and a lightweight server optimized for Python and Node.js bots.
 developers trust Kerit Cloud to host their free bots with zero downtime and full visibility of CPU, RAM, and storage stats from an intuitive pane
 ---
+---
+
+[![free-discord-bot-hosting](https://img.shields.io/badge/tag-free--discord--bot--hosting-blue)](https://github.com/topics/free-discord-bot-hosting)  
+[![discord-bot-hosting](https://img.shields.io/badge/tag-discord--bot--hosting-blue)](https://github.com/topics/discord-bot-hosting)  
+[![uptime](https://img.shields.io/badge/uptime-24%2F7-brightgreen)](https://status.kerit.cloud)  
+[![instant-setup](https://img.shields.io/badge/setup-instant-brightgreen)](https://kerit.cloud/discordbot)  
+[![python-nodejs](https://img.shields.io/badge/languages-Python%2FNode.js-blue)](https://kerit.cloud/discordbot)  
+[![daily-renewal](https://img.shields.io/badge/renewal-daily-orange)](https://billing.kerit.cloud)
+
 
 ## 1️⃣ Quick Start: Claim Your Free Server
 Claim your free Discord bot server today — one per user — and start running Python or Node.js bots in seconds with automatic daily renewals
@@ -163,4 +173,7 @@ Available inside the panel under **Upgrade to Paid Plans**.
 - Stop wasting time on unreliable free hosts — Kerit Cloud gives you stable, free bot servers with clear resource monitoring and hassle-free daily renewals.
 - Looking for free Discord bot hosting with Python/Node.js support, instant server creation, panel management, and full resource visibility? Kerit Cloud is your ultimate solution for lightweight, reliable, and zero-cost hosting.
 ---
+## Topics
+
+`discord-bot-hosting` `free-discord-bot-hosting` `free-bot-hosting` `discord-bot` `discord-bot-free` `discord-bot-24-7` `free-nodejs-hosting` `free-python-hosting` `free-java-hosting` `lavalink-hosting` `free-lavalink` `lavalink-node` `free-lavalink-hosting` `lavalink-discord` `discord-music-bot` `shoukaku` `wavelink` `lavaplayer` `discord.js` `discord.py` `pycord` `jda` `pterodactyl` `free-hosting` `kerit-cloud` `kerit-cloud-free` `kerit-cloud-bot-hosting` `kerit-cloud-lavalink` `kerit-cloud-discord-bot` `kerit-cloud-24-7` `kerit-cloud-nodejs-hosting` `kerit-cloud-python-hosting` `kerit-cloud-java-hosting` `kerit-cloud-music-bot` `kerit-cloud-shoukaku` `kerit-cloud-wavelink` `kerit-cloud-lavaplayer`
 free bot hosting, Kerit Cloud, Discord server hosting, Python hosting, Node.js hosting, free server panel, free cloud serverlightweight bot server
